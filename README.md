@@ -1,2 +1,7 @@
 # Stockmarket-cap-GDP-in-Python
-The Buffett Indicator is the ratio of total US stock market valuation to GDP. Named after Warren Buffett. The ratio of these two data series represents expected future growth relative to current performance.
+Der "Buffet Indicator" (bennant nach Warren Buffet) zeigt das verhältnis des totalen US Aktienmarkts im vergleich zum BIP auf. Das Verhältnis dieser zwei Datensätze representiert den erwarteten zukünftigen Wachstum im vergleich zur jetzigen Leistung.
+
+genutzte librairies:
+
+• Matplotlib • Pandas • Pandas_datareader • Datetime • Plotly • Plotly Express
+
